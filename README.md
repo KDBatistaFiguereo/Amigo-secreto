@@ -11,6 +11,7 @@
   <ul>
     <li><a href="#descripcion">Descripción del proyecto</a></li>
     <li><a href="#funcionalidad">Funcionalidades del proyecto</a></li>
+    <li><a href="#capturas">Capturas</a></li>
   </ul>
 </div>
 
@@ -25,5 +26,16 @@ El juego puede ser usado para actividades como sorteos o rifas</p>
     <li>El usuario puede elegir uno de estos nombres al azar</li>
   </ul>
 </p>
+
+<h2 id="capturas">Capturas</h2>
+<img width="1136" height="584" alt="image" src="https://github.com/user-attachments/assets/5d8f17e9-7cd0-4585-a6d8-f18159ff504d" />
+<img width="767" height="402" alt="image" src="https://github.com/user-attachments/assets/c591b5a5-d1f8-49fa-aa35-cf34f2044147" />
+<img width="767" height="402" alt="image" src="https://github.com/user-attachments/assets/150dbedd-5578-4e33-8550-16a034e06e9e" />
+<img width="767" height="402" alt="image" src="https://github.com/user-attachments/assets/37bfbcb4-7982-4812-82ef-b0607b6ca526" />
+
+
+
+
+
 
 
