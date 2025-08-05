@@ -6,9 +6,13 @@ function agregarAmigo(){
   let amigo = '';
 
   if (elementoAmigo != null && elementoAmigo.value != "") {
-    amigo = elementoAmigo.value;
-    elementoAmigo.value = '';
-    amigos.push(amigo);
+    if(!amigos.includes(elementoAmigo.value.toLowerCase())){
+      amigo = elementoAmigo.value.toLowerCase();
+      elementoAmigo.value = '';
+      amigos.push(amigo);
+    } else {
+      alert("Inserte un nombre que no este repetido");
+    }
   } else {
     alert("Inserte un nombre");
   }
