@@ -10,6 +10,7 @@
   </h2>
   <ul>
     <li><a href="#descripcion">Descripción del proyecto</a></li>
+    <li><a href="#funcionalidad">Funcionalidades del proyecto</a></li>
   </ul>
 </div>
 
@@ -17,5 +18,12 @@
 <p>El amigo secreto es un mini-juego escrito en javascript, html y css; que permite al usuario elegir un nombre al azar a partir de una lista que fue creada por este mismo.
 El juego puede ser usado para actividades como sorteos o rifas</p>
 
+<h2 id="funcionalidad">Funcionalidades del proyecto</h2>
+<p>
+  <ul>
+    <li>El usuario puede agregar los nombres que desee</li>
+    <li>El usuario puede elegir uno de estos nombres al azar</li>
+  </ul>
+</p>
 
 
